@@ -1,1 +1,1 @@
-# smith-normal-form-calculator
+# Smith Normal Form Calculator
